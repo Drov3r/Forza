@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\jonat\\Documents\\SDR\\forza_motorsport-master\\forza_motorsport-master\\Forza-Selft-Drive\\pygta5-car-fast-0.001-alexnetv2-10-epochs-300K-data.model"
+all_model_checkpoint_paths: "C:\\Users\\jonat\\Documents\\SDR\\forza_motorsport-master\\forza_motorsport-master\\Forza-Selft-Drive\\pygta5-car-fast-0.001-alexnetv2-10-epochs-300K-data.model"
